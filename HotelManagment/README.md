@@ -1,0 +1,3 @@
+JpaHibernateByHotels
+
+Intership first project
